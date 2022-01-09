@@ -1,0 +1,36 @@
+﻿@using CMS.Models;
+@model List<Course>;
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/jquery/dist/jquery.min.js" />
+</head>
+<body>
+    <div class="container">
+        <p><strong> Welcome @TempData["data"]</strong></p>
+        <div>
+            <p><strong>Total Course @TempData["data1"]</strong></p>
+        </div>
+        <div>
+            <p><strong>CGPA  @TempData["val"]</strong></p>
+        </div>
+    </div>
+    <div>
+        <p><strong>@TempData["not"]</strong></p>
+    </div>
+    @{ foreach (var data in Model)
+        {
+            <div class="card w-50">
+                <p class=" card-header">
+                    Course
+                </p>
+                <div class="card-body">
+                    <p>@data.Subject</p>
+                </div>
+            </div>
+            <br>
+        }
+    }
+</body>
+</html>

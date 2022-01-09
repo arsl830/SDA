@@ -1,0 +1,27 @@
+﻿@using CMS.Models
+@model Table
+<html>
+<head>
+    <title>LOGIN</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/jquery/dist/jquery.min.js" />
+</head>
+<body>
+    <form action="/home/Index" method="post">
+        <label class="form-label">EMAIL ID<span class="text-danger">*</span></label>
+        <input type="email"
+        asp-for="Email"
+        class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+        <label class="form-label">PASSWORD<span class="text-danger">*</span></label>
+        <input type="text"
+        asp-for="Password"
+        class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+        <div class="text-center">
+            <button class="btn" type="submit">Login</button>
+        </div>
+        </form>
+</body>
+</html>

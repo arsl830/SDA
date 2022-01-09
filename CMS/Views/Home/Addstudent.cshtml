@@ -1,0 +1,22 @@
+﻿@using CMS.Models;
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/jquery/dist/jquery.min.js" />
+</head>
+<body>
+    <form action="/home/Addstudent" method="post">
+        <p>Add student</p>
+        <label class="form-label">Student Email <span class="text-danger">*</span></label>
+        <select class="custom-select mr-sm-2" name="Email" id="inlineFormCustomSelect">
+            @{ foreach (var data in Model)
+            {
+                <option name="Email"  value=@data.Email>@data.Email</option>
+            }}
+        </select>
+        <br>
+        <button class="btn btn-primary" type="submit">Add student</button>
+    </form>
+</body>
+</html>

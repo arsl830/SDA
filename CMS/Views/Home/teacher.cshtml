@@ -1,0 +1,28 @@
+﻿@using CMS.Models;
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/jquery/dist/jquery.min.js" />
+</head>
+<body>
+    <a class="btn btn-primary mr-5" href="/home/AssignCourse">Assignment of Course </a>
+    <a class="btn btn-primary" href="/home/Addstudent">Adding of student</a>
+    <table class="table table-bordered table-striped m-auto h-auto w-auto">
+        <tr>
+            <th>Student Name</th>
+            <th>Student Email</th>
+        </tr>
+        @{
+            foreach (var abc in Model)
+            {
+                <tr>
+                    <td>@abc.Name</td>
+                    <td>@abc.Email</td>
+                </tr>
+            }
+        }  
+    </table>
+    <p><strong>Total Records @TempData["data1"]</strong></p>
+</body>
+</html>

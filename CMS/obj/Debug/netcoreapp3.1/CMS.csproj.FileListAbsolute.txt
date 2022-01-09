@@ -1,0 +1,465 @@
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.exe
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.deps.json
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.runtimeconfig.json
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.runtimeconfig.dev.json
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.Views.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.Views.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.AssemblyReference.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.AssemblyInfoInputs.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.AssemblyInfo.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.CoreCompileInputs.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorAssemblyInfo.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorAssemblyInfo.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\staticwebassets\CMS.StaticWebAssets.Manifest.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\staticwebassets\CMS.StaticWebAssets.xml
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CMS.styles.css
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.TagHelpers.input.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.TagHelpers.output.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorCoreGenerate.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorTargetAssemblyInfo.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorTargetAssemblyInfo.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.Views.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.CopyComplete
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.genruntimeconfig.cache
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\student.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\teacher.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Addstudent.cshtml.g.cs
+C:\Users\Anas Ahmed\source\repos\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\AssignCourse.cshtml.g.cs
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\appsettings.json
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.exe
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.deps.json
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.runtimeconfig.json
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.runtimeconfig.dev.json
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.pdb
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.Views.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.Views.pdb
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.AssemblyReference.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.AssemblyInfoInputs.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.AssemblyInfo.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.CoreCompileInputs.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.MvcApplicationPartsAssemblyInfo.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorAssemblyInfo.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorAssemblyInfo.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\staticwebassets\CMS.StaticWebAssets.Manifest.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\staticwebassets\CMS.StaticWebAssets.xml
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CMS.styles.css
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.TagHelpers.input.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.TagHelpers.output.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorCoreGenerate.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Addstudent.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\AssignCourse.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\student.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\teacher.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorTargetAssemblyInfo.cache
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorTargetAssemblyInfo.cs
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.Views.pdb
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.CopyComplete
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.dll
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.pdb
+F:\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.genruntimeconfig.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.StaticWebAssets.xml
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.exe
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.deps.json
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.runtimeconfig.json
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.runtimeconfig.dev.json
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.Views.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\CMS.Views.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.AssemblyReference.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.AssemblyInfoInputs.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.AssemblyInfo.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorAssemblyInfo.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorAssemblyInfo.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\staticwebassets\CMS.StaticWebAssets.Manifest.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.TagHelpers.input.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.TagHelpers.output.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorCoreGenerate.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Addstudent.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\AssignCourse.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\student.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\teacher.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorTargetAssemblyInfo.cache
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.RazorTargetAssemblyInfo.cs
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.Views.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.csproj.CopyComplete
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.dll
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.pdb
+C:\Users\Muhammad Arslan\Desktop\CMS\CMS\obj\Debug\netcoreapp3.1\CMS.genruntimeconfig.cache
